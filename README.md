@@ -1,1 +1,1 @@
-# MasterThesis---Combinatorics-of-ordered-walks-on-trees-and-applications-to-categories-of-partitions
+# MasterThesis - Combinatorics of ordered walks on trees and applications to categories of partitions
